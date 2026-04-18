@@ -1,12 +1,12 @@
 {
-  "export_job_id": "8022c64c-fc62-4986-b83e-0ffd65b31652",
+  "export_job_id": "4d2c8d67-f0e0-4142-a1ac-c6178f570d58",
   "id_short": 138746,
-  "published_at": "2026-04-10T19:13:51Z",
+  "published_at": "2026-04-18T07:26:07Z",
   "repo_name": "restaurant-verified-email-access-in-el-paso-texas-us-sample-138746",
   "sample_asset_name": "beamstation_138746_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/138746/beamstation_138746_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 34,
-  "sample_sha256": "9dbb32897c723402add6eb86dbdf1a78860f51a3cdcf7745f3d9d2baaba0f72c",
-  "sample_size_bytes": 147968,
-  "total_records": 344
+  "sample_records": 32,
+  "sample_sha256": "9e1f792b62dda04d48dc9a364c9da165bd73b9a05df15a8094d0eb5e8e1a8223",
+  "sample_size_bytes": 139788,
+  "total_records": 324
 }
